@@ -29,7 +29,7 @@ pkg install python git -y
 git clone https://github.com/TEAMBCS/Ip-Traker.git  
 cd Ip-Traker  
 chmod +x * 
-python tracker.py  
+python3 tracker.py  
 ```  
 
 **💻 Linux / Windows:**  
@@ -37,7 +37,7 @@ python tracker.py
 git clone https://github.com/TEAMBCS/Ip-Traker.git  
 cd Ip-Traker  
 chmod +x * 
-python tracker.py  
+python3 tracker.py  
 ```  
 
 ---
@@ -45,7 +45,7 @@ python tracker.py
 ## 🎯 **Usage:**  
 📌 **Run the menu:**  
 ```bash
-python tracker.py  
+python3 tracker.py  
 ```  
 📌 **Select an option and start tracking.**  
 
