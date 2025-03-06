@@ -28,7 +28,8 @@ pkg update && pkg upgrade -y
 pkg install python git -y  
 git clone https://github.com/TEAMBCS/Ip-Traker.git  
 cd Ip-Traker  
-chmod +x * 
+chmod +x *
+pip install -r requirements.txt
 python3 tracker.py  
 ```  
 
@@ -36,7 +37,8 @@ python3 tracker.py
 ```bash
 git clone https://github.com/TEAMBCS/Ip-Traker.git  
 cd Ip-Traker  
-chmod +x * 
+chmod +x *
+pip install -r requirements.txt
 python3 tracker.py  
 ```  
 
