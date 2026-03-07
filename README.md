@@ -1,4 +1,4 @@
-### **`README.md` File Code:**  
+
 
 # IP & Phone Number Tracker  
 ![IP Tracker](https://img.shields.io/badge/Version-1.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.x-green.svg) ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)  
@@ -70,4 +70,4 @@ python3 tracker.py
 ```  
 
 This `README.md` is now **clean, professional, and easy to understand!** ✅  
-Let me know if you want any modifications! 🔥
+Let me know if you want any modifications! 
